@@ -1,4 +1,4 @@
-import Layout from "../componentes/Layout";
+import Layout from "../components/Layout";
 import Cabecalho from "../components/Cabecalho";
 
 export default function Exemplo() {
@@ -8,6 +8,5 @@ export default function Exemplo() {
            <Cabecalho titulo="Next.js & React" />
            <Cabecalho titulo="Aprenda Next na prática" />
         </Layout>
-        
     )
 }
